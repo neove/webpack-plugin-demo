@@ -1,1 +1,5 @@
-module.exports = 1;
+module.exports = () => {
+  import("./world").then((module) => {
+    return module.default;
+  });
+};
