@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/neove/webpack-plugin-demo#readme",
   "dependencies": {
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^5.0.1"
   }
 }
